@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ZooAppDemo/ZooAppDemo.csproj" />
+  <Project Path="ZooLib/ZooLib.csproj" />
+</Solution>
